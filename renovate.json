@@ -1,4 +1,7 @@
 {
+  "extends": [
+    "config:best-practices"
+  ]
   "hostRules": [
     {
       "matchHost": "hub.docker.com",
